@@ -19,6 +19,18 @@ h2{
   padding-top: 20px;
   padding-bottom: 30px;
 }
+.btn {
+  text-decoration: none;
+  background-color: rgb(233, 224, 212);
+  color: #888;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 10px;
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: 600;
+  padding: 20px 10px;
+}
 
 .topshop{
   display: flex;
